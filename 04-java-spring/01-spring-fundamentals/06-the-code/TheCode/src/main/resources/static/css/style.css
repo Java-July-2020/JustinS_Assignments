@@ -1,0 +1,10 @@
+ul {
+  max-width: 500px;
+  margin: auto;
+  border: 30px;
+  
+}
+
+.error {
+	color: red;
+}
